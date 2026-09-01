@@ -1,0 +1,10 @@
+.env
+venv/
+__pycache__/
+*.pyc
+logs/*.log*
+zones_config/*.json
+models/*.pt
+models/*.task
+.vscode/
+.idea/
