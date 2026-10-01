@@ -1,0 +1,9 @@
+ultralytics>=8.4.0
+opencv-python>=4.8.0
+numpy>=1.24.0
+lap>=0.5.12
+mediapipe>=0.10.9
+pyodbc>=5.1.0
+PyYAML>=6.0.1
+python-dotenv>=1.0.1
+elasticsearch
